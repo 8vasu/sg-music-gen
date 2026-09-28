@@ -1,0 +1,2 @@
+#!/bin/sh
+printf 'https://huggingface.co/%s/resolve/main/%s\n  out=%s\n' "$3" "$4" "$4" >&3
